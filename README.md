@@ -14,10 +14,9 @@
 
   <!-- Social & Contact Quick Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/a-joshika-git"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/a-joshika-git"><img src="https://www.linkedin.com/in/joshika-a-88740a375?utm_source=share_via&utm_content=profile&utm_medium=member_android" alt="LinkedIn" /></a>
     <a href="mailto:ankinapallijoshika@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/a-joshika-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   </p>
 
 </div>
@@ -27,7 +26,7 @@
 ### 🧠 About Me
 
 ```yaml
-name: Joshika Ankinapalli
+name: Joshika A
 role: AI & Data Analytics (AIDA) Engineering Student
 degree: Bachelor of Technology / Engineering in AIDA
 mission: "Democratizing intelligent solutions by integrating AI into everyday software"
@@ -71,17 +70,6 @@ status: 🚀 Actively seeking AI / ML Internships, Research & Hackathon Collabor
 
 ---
 
-### 🚀 Featured AI & Analytics Projects
-
-| Project | Core AI & Tech Stack | Description & Impact | Links |
-| :--- | :--- | :--- | :---: |
-| **🤖 OmniAgent Copilot** | `Python` `LangChain` `ChromaDB` `FastAPI` `Next.js` | Intelligent multi-agent RAG system that automates complex enterprise research, document summarization, and query reasoning. | [Repo](https://github.com/a-joshika-git) |
-| **📈 InsightFlow Analytics** | `Python` `Pandas` `Scikit-Learn` `Streamlit` `PostgreSQL` | End-to-end predictive analytics engine providing real-time data visualisations, anomaly detection, and customer churn forecasting. | [Repo](https://github.com/a-joshika-git) |
-| **👁️ VisionDefect AI** | `PyTorch` `OpenCV` `FastAPI` `Docker` | High-precision computer vision pipeline identifying manufacturing anomalies and defect classifications in real-time video streams. | [Repo](https://github.com/a-joshika-git) |
-| **⚡ SmartDocs AI Summarizer** | `HuggingFace` `Transformers` `FastAPI` `React` | Production-grade NLP text summarizer and entity extraction microservice integrated into a modern web client. | [Repo](https://github.com/a-joshika-git) |
-
----
-
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
@@ -114,6 +102,6 @@ status: 🚀 Actively seeking AI / ML Internships, Research & Hackathon Collabor
 
 <p align="center">
   <a href="mailto:ankinapallijoshika@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0d1117?style=for-the-badge&logo=mail.ru&logoColor=38bdf8&labelColor=161b22" alt="Email" /></a>
-  <a href="https://linkedin.com/in/a-joshika-git"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=161b22" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/a-joshika-git"><img src="https://www.linkedin.com/in/joshika-a-88740a375?utm_source=share_via&utm_content=profile&utm_medium=member_android" alt="LinkedIn" /></a>
   <a href="https://github.com/a-joshika-git"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" /></a>
 </p>
