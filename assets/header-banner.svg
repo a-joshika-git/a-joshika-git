@@ -1,0 +1,126 @@
+<svg width="100%" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+
+    <!-- Subtle Accent Glow Gradients -->
+    <radialGradient id="glowLeft" cx="15%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glowRight" cx="85%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="40%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#94a3b8" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="gridPattern" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#334155" stroke-width="0.5" stroke-opacity="0.25" />
+    </pattern>
+
+    <style>
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Inter', sans-serif;
+        font-size: 36px;
+        font-weight: 800;
+        letter-spacing: -0.03em;
+      }
+      .subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Inter', sans-serif;
+        font-size: 13.5px;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+      .tagline {
+        font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace;
+        font-size: 13.5px;
+        font-weight: 400;
+      }
+      .badge-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+      }
+      .terminal-dot {
+        r: 4.5px;
+      }
+    </style>
+  </defs>
+
+  <!-- Container Box with Rounded Borders -->
+  <rect width="1000" height="220" rx="16" fill="url(#bgGrad)" />
+  <rect width="1000" height="220" rx="16" fill="url(#gridPattern)" />
+  <rect width="1000" height="220" rx="16" fill="url(#glowLeft)" />
+  <rect width="1000" height="220" rx="16" fill="url(#glowRight)" />
+
+  <!-- Outer Border -->
+  <rect x="0.75" y="0.75" width="998.5" height="218.5" rx="15.25" fill="none" stroke="#334155" stroke-width="1.5" stroke-opacity="0.4" />
+
+  <!-- Top Decorative Terminal Bar / Accents -->
+  <circle cx="36" cy="32" class="terminal-dot" fill="#ef4444" opacity="0.85" />
+  <circle cx="52" cy="32" class="terminal-dot" fill="#f59e0b" opacity="0.85" />
+  <circle cx="68" cy="32" class="terminal-dot" fill="#10b981" opacity="0.85" />
+  <text x="96" y="36" font-family="'JetBrains Mono', monospace" font-size="12" fill="#64748b" letter-spacing="0.04em">aida.student.model ~ inference</text>
+
+  <!-- Status Badge Right -->
+  <g transform="translate(790, 22)">
+    <rect width="175" height="24" rx="12" fill="#1e293b" stroke="#818cf8" stroke-width="1" stroke-opacity="0.4" />
+    <circle cx="16" cy="12" r="3.5" fill="#38bdf8">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="28" y="16" class="badge-text" fill="#cbd5e1">AI • RESEARCH • CODE</text>
+  </g>
+
+  <!-- Main Headline -->
+  <text x="36" y="98" class="subtitle" fill="url(#accentGrad)">AI &amp; DATA ANALYTICS (AIDA) ENGINEERING STUDENT</text>
+  <text x="36" y="142" class="title" fill="url(#nameGrad)">Hi, I'm <tspan fill="#38bdf8">Joshika</tspan> 🤖</text>
+  
+  <!-- Tagline / Code Snippet -->
+  <g transform="translate(36, 172)">
+    <rect width="560" height="28" rx="6" fill="#0b0f19" fill-opacity="0.9" stroke="#334155" stroke-opacity="0.5" stroke-width="1" />
+    <text x="14" y="19" class="tagline" fill="#64748b">&gt; <tspan fill="#e2e8f0">solving real-world complexity through intelligent AI integration</tspan></text>
+  </g>
+
+  <!-- Tech Highlights Badges (Right Side) -->
+  <g transform="translate(680, 80)">
+    <!-- Pill 1 -->
+    <rect x="0" y="0" width="135" height="32" rx="8" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="14" y="21" class="tagline" font-size="12" fill="#38bdf8">Python • PyTorch</text>
+
+    <!-- Pill 2 -->
+    <rect x="145" y="0" width="140" height="32" rx="8" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="14" y="21" class="tagline" font-size="12" fill="#c084fc">LLMs • LangChain</text>
+
+    <!-- Pill 3 -->
+    <rect x="0" y="42" width="135" height="32" rx="8" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="14" y="63" class="tagline" font-size="12" fill="#34d399">Data Analytics</text>
+
+    <!-- Pill 4 -->
+    <rect x="145" y="42" width="140" height="32" rx="8" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="14" y="63" class="tagline" font-size="12" fill="#60a5fa">FastAPI • React</text>
+
+    <!-- Pill 5 -->
+    <rect x="0" y="84" width="285" height="32" rx="8" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+    <text x="14" y="105" class="tagline" font-size="12" fill="#f472b6">Machine Learning • Neural Networks</text>
+  </g>
+</svg>
