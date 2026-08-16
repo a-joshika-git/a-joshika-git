@@ -14,7 +14,7 @@
 
   <!-- Social & Contact Quick Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/a-joshika-git"><img src="https://www.linkedin.com/in/joshika-a-88740a375?utm_source=share_via&utm_content=profile&utm_medium=member_android" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/a-joshika-git"><img src="https://www.linkedin.com/in/joshika-a" alt="LinkedIn" /></a>
     <a href="mailto:ankinapallijoshika@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/a-joshika-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
