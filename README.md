@@ -39,7 +39,7 @@ status: 🚀 Actively seeking AI / ML Internships, Research & Hackathon Collabor
 - 💡 **My Philosophy**: I strongly believe that traditional software limitations can be overcome with **intelligent AI integration**—transforming static workflows into dynamic, adaptive systems.
 - 🔬 **Current Focus**: Architecting RAG (Retrieval-Augmented Generation) applications, fine-tuning open-source LLMs, and building end-to-end data analytics pipelines.
 - 🛠️ **Engineering Mindset**: Combining rigorous statistical data analytics with modern software engineering (FastAPI, React, Vector DBs, Docker).
-- 🤝 **Open to**: AI/ML research collaborations, hackathons, open-source AI projects, and engineering internships.
+- 🤝 **Open to**: AI/DA research collaborations, hackathons, open-source AI projects, and engineering internships.
 
 ---
 
